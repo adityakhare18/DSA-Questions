@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakhare18/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
