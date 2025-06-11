@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adityakhare18/DSA-Questions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityakhare18/DSA-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adityakhare18/DSA-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
