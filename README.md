@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityakhare18/DSA-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityakhare18/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakhare18/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
