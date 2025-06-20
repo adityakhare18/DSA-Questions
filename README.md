@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/adityakhare18/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
