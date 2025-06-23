@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adityakhare18/DSA-Questions/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityakhare18/DSA-Questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
