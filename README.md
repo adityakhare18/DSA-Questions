@@ -233,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/adityakhare18/DSA-Questions/tree/master/0176-second-highest-salary) |
+| [0584-find-customer-referee](https://github.com/adityakhare18/DSA-Questions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
