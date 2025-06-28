@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakhare18/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Stack
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
