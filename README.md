@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/adityakhare18/DSA-Questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityakhare18/DSA-Questions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0078-subsets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/adityakhare18/DSA-Questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakhare18/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
