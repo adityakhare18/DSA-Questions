@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/adityakhare18/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/adityakhare18/DSA-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adityakhare18/DSA-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/adityakhare18/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
