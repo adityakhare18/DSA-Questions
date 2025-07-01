@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
