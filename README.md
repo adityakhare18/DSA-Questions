@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityakhare18/DSA-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
 | ------- |
@@ -280,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
