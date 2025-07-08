@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
