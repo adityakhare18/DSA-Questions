@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1170-shortest-common-supersequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityakhare18/DSA-Questions/tree/master/0583-delete-operation-for-two-strings) |
+| [1170-shortest-common-supersequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
