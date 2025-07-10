@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityakhare18/DSA-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityakhare18/DSA-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
