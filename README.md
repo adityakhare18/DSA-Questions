@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adityakhare18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakhare18/DSA-Questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityakhare18/DSA-Questions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/adityakhare18/DSA-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityakhare18/DSA-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
