@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityakhare18/DSA-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
