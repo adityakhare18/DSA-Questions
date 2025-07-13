@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/adityakhare18/DSA-Questions/tree/master/0120-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityakhare18/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
