@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/adityakhare18/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityakhare18/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakhare18/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adityakhare18/DSA-Questions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/adityakhare18/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakhare18/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityakhare18/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
