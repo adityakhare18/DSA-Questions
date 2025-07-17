@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/adityakhare18/DSA-Questions/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/adityakhare18/DSA-Questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
