@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityakhare18/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/adityakhare18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakhare18/DSA-Questions/tree/master/0051-n-queens) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adityakhare18/DSA-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/adityakhare18/DSA-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -369,5 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
