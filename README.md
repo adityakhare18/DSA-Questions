@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityakhare18/DSA-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0890-lemonade-change) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adityakhare18/DSA-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
