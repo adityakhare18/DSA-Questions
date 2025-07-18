@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/adityakhare18/DSA-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityakhare18/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/adityakhare18/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityakhare18/DSA-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakhare18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adityakhare18/DSA-Questions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/adityakhare18/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 ## Tree
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/adityakhare18/DSA-Questions/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/adityakhare18/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityakhare18/DSA-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
@@ -380,5 +383,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakhare18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakhare18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/adityakhare18/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
