@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adityakhare18/DSA-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityakhare18/DSA-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityakhare18/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
