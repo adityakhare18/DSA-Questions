@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityakhare18/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/adityakhare18/DSA-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakhare18/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/adityakhare18/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -165,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityakhare18/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
 ## Design
 |  |
@@ -419,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
