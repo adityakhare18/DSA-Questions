@@ -2,7 +2,7 @@ class Solution {
     public int[][] merge(int[][] arr) {
         Arrays.sort(arr, (a, b) -> a[0] - b[0]);
         int n = arr.length;
-        List<List<Integer>> list = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
         for(int i=0;i<n;i++){
             int st = arr[i][0];
             int end = arr[i][1];
@@ -13,14 +13,14 @@ class Solution {
             }
             ls.add(st);
             ls.add(end);
-            list.add(ls);
+            ans.add(ls);
         }
 
-        int[][] ans = new int[list.size()][2];
-        for(int i=0;i<list.size();i++){
-            ans[i][0] = list.get(i).get(0);
-            ans[i][1] = list.get(i).get(1);
+        int[][] ansArray = new int[ans.size()][2];
+        for(int i=0;i<ans.size();i++){
+            ansArray[i][0] = ans.get(i).get(0);
+            ansArray[i][1] = ans.get(i).get(1);
         }
-        return ans;
+        return ansArray;
     }
 }
