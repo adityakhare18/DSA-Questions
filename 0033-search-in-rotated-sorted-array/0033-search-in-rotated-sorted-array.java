@@ -1,23 +1,26 @@
 class Solution {
     public int search(int[] arr, int target) {
-        int l = 0,h = arr.length - 1;
-        while(l <= h){
-            int mid = l + (h-l)/2;
-            if(arr[mid] == target) return mid;
+        int s = 0, e = arr.length - 1;
+        // int ans = -1;
+        while(s <= e){
+            int mid = s + (e-s)/2;
 
-            //check left sorted
-            if(arr[l] <= arr[mid]){
-                if(arr[l] <= target && target <= arr[mid])
-                h = mid - 1;
-                else 
-                l = mid + 1;
-            }
+            if(arr[mid] == target)
+            return mid;
 
-            //right sorted h
-            else{
-                if(arr[mid] <= target && target <= arr[h]) l = mid + 1;
+            if(arr[s] <= arr[mid]){
+                if(arr[s] <= target && target <= arr[mid]){
+                    e = mid - 1;
+                }
                 else
-                h = mid - 1;
+                s = mid + 1;
+            }
+            else{
+                if(arr[mid] <= target && target <= arr[e]){
+                    s = mid + 1;
+                }
+                else
+                e = mid - 1;
             }
         }
         return -1;
