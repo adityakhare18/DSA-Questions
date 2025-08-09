@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/adityakhare18/DSA-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/adityakhare18/DSA-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityakhare18/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/adityakhare18/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adityakhare18/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/adityakhare18/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
