@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adityakhare18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakhare18/DSA-Questions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/adityakhare18/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/adityakhare18/DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityakhare18/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityakhare18/DSA-Questions/tree/master/0057-insert-interval) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityakhare18/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityakhare18/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
