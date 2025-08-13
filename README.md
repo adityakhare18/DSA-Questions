@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adityakhare18/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityakhare18/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
