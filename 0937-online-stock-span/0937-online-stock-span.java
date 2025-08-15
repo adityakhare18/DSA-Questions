@@ -1,21 +1,30 @@
 class StockSpanner {
-    List<Integer> ls;
+    class Pair{
+        int ele;
+        int i;
+        Pair(int ele,int i){
+            this.ele = ele;
+            this.i = i;
+        }
+    }
+    Stack<Pair> st = new Stack<>();
+    int idx;
 
     public StockSpanner() {
-        ls = new ArrayList<>();
+        st.clear();
+        idx = -1;
     }
     
     public int next(int price) {
-        int cnt = 1;
-        int n = ls.size()-1;
-        for(int i=n;i>=0;i--){
-            if(ls.get(i) <= price)
-            cnt++;
-            else
-            break;
+        idx++;
+        while (!st.isEmpty() && st.peek().ele <= price) {
+            st.pop();
         }
-        ls.add(price);
-        return cnt;
+
+        int prevGreaterIndex = st.isEmpty() ? -1 : st.peek().i;
+        st.push(new Pair(price, idx));
+
+        return idx - prevGreaterIndex;
     }
 }
 
