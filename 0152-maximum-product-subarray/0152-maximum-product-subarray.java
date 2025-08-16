@@ -1,24 +1,25 @@
 class Solution {
     public int maxProduct(int[] arr) {
         int n = arr.length;
-        int maxProd = arr[0];
-        int curr = 1;
+        int currProd = 1;
+        int maxProd = Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            curr *= arr[i];
+            currProd *= arr[i];
 
-            maxProd = Math.max(maxProd,curr);
+            maxProd = Math.max(maxProd,currProd);
 
-            if(curr == 0) curr = 1;
+            if(currProd == 0) currProd = 1;
         }
 
-        curr = 1;
-        for(int i=n-1;i>=1;i--){
-            curr *= arr[i];
+        currProd = 1;
+        for(int i=n-1;i>=0;i--){
+            currProd *= arr[i];
 
-            maxProd = Math.max(maxProd,curr);
-            
-            if(curr == 0) curr = 1;
+            maxProd = Math.max(maxProd,currProd);
+
+            if(currProd == 0) currProd = 1;
         }
+
         return maxProd;
     }
 }
