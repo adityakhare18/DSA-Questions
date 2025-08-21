@@ -21,14 +21,14 @@ class Solution {
     }
     public int solve(TreeNode root,boolean[] ans){
         if(root == null)
-        return 0;
+        return 1;
 
         int l = solve(root.left,ans);
         int r = solve(root.right,ans);
 
-        if(Math.abs(l - r) > 1)
+        if(Math.abs(l-r) > 1)
         ans[0] = false;
 
-        return 1 + Math.max(l,r);
+        return Math.max(l,r)+1;
     }
 }
