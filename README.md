@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/adityakhare18/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/adityakhare18/DSA-Questions/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityakhare18/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/adityakhare18/DSA-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityakhare18/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/adityakhare18/DSA-Questions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/adityakhare18/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityakhare18/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/adityakhare18/DSA-Questions/tree/master/0289-game-of-life) |
 | [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
