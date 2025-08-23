@@ -15,47 +15,44 @@
  */
 class Solution {
     public int amountOfTime(TreeNode root, int start) {
-        HashMap<TreeNode, TreeNode> map = new HashMap<>();
-        TreeNode tar = markParent(map,root,start);
-        return burnTree(tar,map);
+        HashMap<TreeNode,TreeNode> parent = new HashMap<>();
+        TreeNode tar = makeParent(root,start,parent);
+        return burnTree(root,tar,parent);
+
     }
-    public TreeNode markParent(HashMap<TreeNode, TreeNode> map,TreeNode root,int st){
+    public TreeNode makeParent(TreeNode root,int st,HashMap<TreeNode,TreeNode> parent){
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        map.put(root,null);
-        TreeNode tar = null;
+        TreeNode target = null;
         while(!q.isEmpty()){
             int size = q.size();
             for(int i=0;i<size;i++){
-                TreeNode curr = q.remove();
+                TreeNode curr = q.poll();
                 if(curr.val == st)
-                tar = curr;
+                target = curr;
                 if(curr.left != null){
+                    parent.put(curr.left,curr);
                     q.add(curr.left);
-                    map.put(curr.left,curr);
                 }
                 if(curr.right != null){
+                    parent.put(curr.right,curr);
                     q.add(curr.right);
-                    map.put(curr.right,curr);
                 }
             }
         }
-        return tar;
+        return target;
     }
-    public int burnTree(TreeNode root,HashMap<TreeNode, TreeNode> map){
-        Queue<TreeNode> q = new  LinkedList<>();
-        HashSet<TreeNode> vis = new HashSet<>();
-        q.add(root);
-        vis.add(root);
-
+    public int burnTree(TreeNode root,TreeNode target,HashMap<TreeNode,TreeNode> parent){
         int ans = 0;
-
-
+        Queue<TreeNode> q = new LinkedList<>();
+        Set<TreeNode> vis = new HashSet<>();
+        vis.add(target);
+        q.add(target);
         while(!q.isEmpty()){
             int size = q.size();
             boolean flag = false;
             for(int i=0;i<size;i++){
-                TreeNode curr = q.remove();
+                TreeNode curr = q.poll();
                 if(curr.left != null && !vis.contains(curr.left)){
                     q.add(curr.left);
                     vis.add(curr.left);
@@ -66,9 +63,9 @@ class Solution {
                     vis.add(curr.right);
                     flag = true;
                 }
-                if(map.get(curr) !=null && !vis.contains(map.get(curr))){
-                    q.add(map.get(curr));
-                    vis.add(map.get(curr));
+                if(parent.get(curr) != null && !vis.contains(parent.get(curr))){
+                    q.add(parent.get(curr));
+                    vis.add(parent.get(curr));
                     flag = true;
                 }
             }
