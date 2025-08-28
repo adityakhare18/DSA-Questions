@@ -1,38 +1,26 @@
 class Solution {
-    int dp[][];
     public int uniquePathsWithObstacles(int[][] arr) {
-        int rows = arr.length;
-        int cols = arr[0].length;
-
-        if (arr[0][0] == 1 || arr[rows - 1][cols - 1] == 1) {
-            return 0;
+        int n = arr.length;
+        int m = arr[0].length;
+        int[][] dp = new int[n][m];
+        for(int[] r:dp){
+            Arrays.fill(r,-1);
         }
-
-        dp = new int[rows][cols];
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                dp[i][j] = -1;
-            }
-        }
-
-        return solve(arr, 0, 0, rows, cols);
+        if(arr[n-1][m-1] == 1)
+        return 0;
+        return solve(arr,n-1,m-1,0,0,dp);
     }
-    public int solve(int[][] arr, int i, int j, int row, int col) {
-        if (i >= row || j >= col || arr[i][j] == 1) {
-            return 0;
-        }
-        if (i == row - 1 && j == col - 1) {
-            return 1;
-        }
+    public int solve(int[][] arr,int n,int m,int i,int j,int[][] dp){
+        if(i == n && j == m)
+        return 1;
+        if(i > n || j > m || arr[i][j] == 1)
+        return 0;
 
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        int right = solve(arr, i, j + 1, row, col);
-        int down = solve(arr, i + 1, j, row, col);
-
-        dp[i][j] = right + down;
+        if(dp[i][j] != -1)
         return dp[i][j];
+
+        int down = solve(arr,n,m,i+1,j,dp);
+        int right = solve(arr,n,m,i,j+1,dp);
+        return dp[i][j] = down + right;
     }
 }
