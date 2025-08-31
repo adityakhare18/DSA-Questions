@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/adityakhare18/DSA-Questions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/adityakhare18/DSA-Questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/adityakhare18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/adityakhare18/DSA-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/adityakhare18/DSA-Questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/adityakhare18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
@@ -537,8 +539,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityakhare18/DSA-Questions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityakhare18/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/adityakhare18/DSA-Questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/adityakhare18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityakhare18/DSA-Questions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/adityakhare18/DSA-Questions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
