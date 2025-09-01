@@ -1,33 +1,28 @@
 class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>> ans = new ArrayList<>();
-        List<String> ls = new ArrayList<>();
-
-        solve(s,ls,ans);
+        solve(s,ans,new ArrayList<>(),0);
         return ans;
     }
-    public void solve(String s,List<String> ls,List<List<String>> ans){
-        if(s.length() == 0){
+    public void solve(String s,List<List<String>> ans,List<String> ls,int idx){
+        if(idx == s.length()){
             ans.add(new ArrayList<>(ls));
             return;
         }
-        for(int i=0;i<s.length();i++){
-            String sub = s.substring(0,i+1);
-            if(isPalindrome(sub)){
-                ls.add(sub);
-                solve(s.substring(i+1),ls,ans);
+        for(int i=idx;i<s.length();i++){
+            String str = s.substring(idx,i+1);
+            if(isPalindrome(str)){
+                ls.add(str);
+                solve(s,ans,ls,i+1);
                 ls.remove(ls.size()-1);
             }
         }
     }
     public boolean isPalindrome(String s){
-        int st = 0,end = s.length()-1;
-        while(st<=end){
-            if(s.charAt(st) != s.charAt(end)){
-                return false;
-            }
-            st++;
-            end--;
+        int i = 0,j=s.length()-1;
+        while(i <= j){
+            if(s.charAt(i++) != s.charAt(j--))
+            return false;
         }
         return true;
     }
