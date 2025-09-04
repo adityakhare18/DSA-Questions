@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityakhare18/DSA-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/adityakhare18/DSA-Questions/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
 | ------- |
