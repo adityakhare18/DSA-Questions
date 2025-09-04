@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adityakhare18/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/adityakhare18/DSA-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakhare18/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adityakhare18/DSA-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakhare18/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
