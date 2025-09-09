@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adityakhare18/DSA-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adityakhare18/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/adityakhare18/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityakhare18/DSA-Questions/tree/master/0561-array-partition) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/adityakhare18/DSA-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakhare18/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/adityakhare18/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityakhare18/DSA-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityakhare18/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/adityakhare18/DSA-Questions/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/adityakhare18/DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
