@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityakhare18/DSA-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/adityakhare18/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/adityakhare18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/adityakhare18/DSA-Questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2887-sort-vowels-in-a-string](https://github.com/adityakhare18/DSA-Questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
