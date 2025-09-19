@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityakhare18/DSA-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityakhare18/DSA-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/adityakhare18/DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/adityakhare18/DSA-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityakhare18/DSA-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityakhare18/DSA-Questions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3797-design-spreadsheet](https://github.com/adityakhare18/DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityakhare18/DSA-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakhare18/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2887-sort-vowels-in-a-string](https://github.com/adityakhare18/DSA-Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/adityakhare18/DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/adityakhare18/DSA-Questions/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/adityakhare18/DSA-Questions/tree/master/0733-flood-fill) |
 | [2411-spiral-matrix-iv](https://github.com/adityakhare18/DSA-Questions/tree/master/2411-spiral-matrix-iv) |
+| [3797-design-spreadsheet](https://github.com/adityakhare18/DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/adityakhare18/DSA-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityakhare18/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/adityakhare18/DSA-Questions/tree/master/0937-online-stock-span) |
+| [3797-design-spreadsheet](https://github.com/adityakhare18/DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |
