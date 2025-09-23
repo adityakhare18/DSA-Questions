@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityakhare18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakhare18/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/adityakhare18/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/adityakhare18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/adityakhare18/DSA-Questions/tree/master/0455-assign-cookies) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/adityakhare18/DSA-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/adityakhare18/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/adityakhare18/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/adityakhare18/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/adityakhare18/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityakhare18/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityakhare18/DSA-Questions/tree/master/0583-delete-operation-for-two-strings) |
