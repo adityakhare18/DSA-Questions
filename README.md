@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/adityakhare18/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityakhare18/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityakhare18/DSA-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adityakhare18/DSA-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adityakhare18/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityakhare18/DSA-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/adityakhare18/DSA-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adityakhare18/DSA-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/adityakhare18/DSA-Questions/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
